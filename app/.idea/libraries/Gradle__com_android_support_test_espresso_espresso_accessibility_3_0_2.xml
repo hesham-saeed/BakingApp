@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test.espresso:espresso-accessibility-3.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-accessibility-3.0.2.aar/a30bef1cd0459499b3b39bdccd445cf0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-accessibility-3.0.2.aar/a30bef1cd0459499b3b39bdccd445cf0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/espresso-accessibility/3.0.2/a789f6df05824ec3377c39b8fda582936ae21529/espresso-accessibility-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

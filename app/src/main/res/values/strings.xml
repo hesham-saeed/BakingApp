@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BakingApp2</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="default_ingredient">No recipe selected!</string>
+    <string name="select_recipe_default_title">Select a recipe</string>
+    <string name="video_not_found">Video not found</string>
+</resources>
